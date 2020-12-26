@@ -1,0 +1,19 @@
+.sidebarOption {
+  display: flex;
+  align-items: center;
+  color: grey;
+  height: 40px;
+  cursor: pointer;
+  transition: 200ms color ease-in;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sidebarOption:hover {
+  color: white;
+}
+
+.sidebarOption_icon {
+  display: flex;
+  margin-left: 10px;
+  margin-right: 10px;
+}
