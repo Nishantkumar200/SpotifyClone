@@ -2,10 +2,7 @@ export const initialState = {
   user: null,
   playlist: [],
   isPlaying: false,
-
   item: null,
-  // Remove after debugging......
-  //token: "BQAlJDCD87HVnu9rcxr_X6OBE0-YJE2fb4GAms57y3_ploGbc7…vyGXm3-RMZofg7eA3OavfAT2D2FkAknMQVWkPFCtMZGmPJuSw",
 };
 
 const reducer = (state, action) => {
