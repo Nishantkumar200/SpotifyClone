@@ -1,6 +1,6 @@
 export const userendPoint = "https://accounts.spotify.com/authorize";
 
-const clientId = "80f2499cb5ea4197850f8693b495db85 ";
+const clientId = "Kindly use your key ";
 
 const redirectURL = "http://localhost:3000/";
 
